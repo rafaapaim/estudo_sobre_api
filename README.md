@@ -10,7 +10,7 @@
 
 ### Objetivo
 ---
-💬 Scrip em Python com o intuito de aprender a consumir dados de uma API
+💬 Script em Python com o intuito de aprender a consumir dados de uma API
 
 ### Tecnologias
 ---
