@@ -15,6 +15,6 @@ def retorna_personagem(id):
     tipo = personagem["type"]
     imagem = personagem["image"]
     origem = personagem["origin"]["name"]
-    return "Nome: " + nome + "\nStatus: " + status + "\nEspecie: " + especie + "\nTipo: " + tipo + "\nOrigem: " + origem + "\nImagem: " + imagem
+    return f'Nome: {nome} \nStatus: {status} \nEspecie: {especie} \nTipo: {tipo} \nOrigem: {origem} \nImagem: {imagem}'
 
 print(retorna_personagem(id))
